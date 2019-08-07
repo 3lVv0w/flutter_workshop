@@ -1,4 +1,4 @@
-# workpoint_homepage
+# Flutter Workshop
 
 A new Flutter application.
 
